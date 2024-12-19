@@ -1,0 +1,28 @@
+{
+  "name": "finalback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "csv-parser": "^3.0.0",
+    "exceljs": "^4.4.0",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "mathjs": "^14.0.1",
+    "mljs": "^8.0.9",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.1",
+    "multipart-stream": "^2.0.1",
+    "nodemon": "^3.1.0",
+    "python-shell": "^5.0.0",
+    "stats.js": "^0.17.0"
+  }
+}
